@@ -1,4 +1,4 @@
-# suicide_detection_project
+# Suicide detection project
 
 Suicide is one of the leading causes of death worldwide, with millions at risk each year. Online communities, such as Reddit, have become outlets where individuals openly share struggles with depression and suicidal ideation. Detecting high-risk language in these posts can help researchers design **just-in-time interventions** and **support systems**. This project explores how **machine learning** and **deep learning** can be applied to social media data for **suicidal ideation detection**, while also emphasizing **explainability**.
 
