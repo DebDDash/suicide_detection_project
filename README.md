@@ -24,3 +24,13 @@ git clone https://github.com/yourusername/suicide_detection_project.git
 cd suicide_detection_project
 pip install -r requirements.txt
 
+## Running the Streamlit App
+
+To launch the suicide risk detection app locally:
+
+```bash
+streamlit run app.py
+
+Below is an example of how the Streamlit app looks:
+
+![Streamlit App Example](assets/photo_1.png)
