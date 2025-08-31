@@ -1,0 +1,12 @@
+LIME Explanation: [
+ ('karma', -0.066),
+ ('you', -0.033),
+ ('something', -0.021),
+ ('like', -0.020),
+ ('hurting', +0.015),
+ ('are', -0.014),
+ ('taking', +0.010),
+ ('to', +0.010),
+ ('over', +0.010),
+ ('matter', +0.009)
+]
